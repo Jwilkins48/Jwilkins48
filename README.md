@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Jwilkins48
 - 👀 I’m interested in reading fantasy
 - 🌱 I’m currently learning JS
+- Still a beginner :)
 
 
 <!---
