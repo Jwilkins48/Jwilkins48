@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jwilkins48
+- 👋 Hi, I’m Jenna
 - 👀 I’m interested in reading fantasy
 - 🌱 I’m currently learning JS
 - Still a beginner :)
