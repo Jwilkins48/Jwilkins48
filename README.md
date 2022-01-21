@@ -1,7 +1,4 @@
-- 👋 Hi, I’m Jenna
-- 👀 I’m interested in reading fantasy
-- 🌱 I’m currently learning JS
-- Still a beginner :)
+Hi, I’m Jenna
 
 
 <!---
